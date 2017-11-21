@@ -159,6 +159,7 @@ function onSkipbusbtn() {
         return;
     }
     var canChange = true; //오늘인지 아닌지
+    if(0) {//2017.11.21 당일에도 변경을 원하는 사용자가 많아서 당일 체크안함
     var today = new Date();
     switch(today.getDay()) {
         case 0:
@@ -196,6 +197,7 @@ function onSkipbusbtn() {
         alert('당일은 변경할 수가 없습니다.');
         return;
     }
+    }//2017.11.21
     // '셔틀안타요' 비활성화. 이때는 당일이 아니여도 변경이 불가하다.
     if(false == skipbtn_on) {
 //        makeAlert('당일은 변경할 수가 없습니다.');
