@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.edticket.shuttleforparents" ios-CFBundleVersion="1.0.5" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.edticket.shuttleforparents" ios-CFBundleVersion="1.0.6" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>shuttleforparents</name>
     <description>
         안전한 어린이통학 전문 서비스 셔틀타요에서 만든 학부모용 '셔틀타요 어플리케이션'입니다.

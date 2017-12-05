@@ -86,11 +86,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Q0eHAT5SYV+7GrKKGuPJYGRuXFM=
+		Qg9VyuRQfszF4A6+Lr4M7PQqhcQ=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		eRIAmHHY7Ij6etmiWl4tzJVmcXI=
+		DVwjTuyqA784HfBBaCOf74hxj4Q=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		i1rcpjiTOyOZAx0hBjAgG79OfKc=
+		YEzznkXUVzkG5AOaPKl4ju7aPh4=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		v7qrp38U+2aZPWLe616IENqVrgQ=
+		O+1dJobMb+82Ew6wp/pT5d/Imss=
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		kR7yAovSwWJccPH9oiniYfnTazw=
+		PxJjvGCIjwOd6yuLbj5eamKTOmQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		N3g8zS1EoFyZV3C3p2KHOK2TIuQ=
+		veowZ1lxG2tVsnw0Vipz3q8BIO8=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -838,7 +838,7 @@
 		</data>
 		<key>www/js/tayoreal.js</key>
 		<data>
-		d6MJ9GegJ+wkNw5AaCKg4kGJmNo=
+		Hk9nBvmdo8Zzna18FvzikURnAr4=
 		</data>
 		<key>www/js/tayoschedule.js</key>
 		<data>
@@ -1111,22 +1111,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q0eHAT5SYV+7GrKKGuPJYGRuXFM=
+			Qg9VyuRQfszF4A6+Lr4M7PQqhcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			f/7vzcXT4S+oeaIcqHL7pg11kXG0qp7qdCj0IPZmRWc=
+			U6cj+gwCr/DoTHc0eqeYmK5cpFbSRKczMzeasSjjFG4=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eRIAmHHY7Ij6etmiWl4tzJVmcXI=
+			DVwjTuyqA784HfBBaCOf74hxj4Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			s0Ss2NhX5gKHOd3RAAFsTZy33iLAFUs2uyxOuMglgrU=
+			/EDVVB2yJzVXy1dzd1mcC0xewI+RaS+mK8x2RV6ThKo=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -1144,11 +1144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i1rcpjiTOyOZAx0hBjAgG79OfKc=
+			YEzznkXUVzkG5AOaPKl4ju7aPh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			EFTUP2Dmo26MGytaMRXGXSnZMnEk7ojPKkWZwoayKFk=
+			FxCrDosZwwTVatHfBEZ4nrNBJHk8hrlLJiEXRIlGeBo=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
@@ -1166,11 +1166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kR7yAovSwWJccPH9oiniYfnTazw=
+			PxJjvGCIjwOd6yuLbj5eamKTOmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			7gynuQo7yVjAODtHSHnzqJiqpS58o7GsNJlTG7RqUIc=
+			mUKkBqbh83MhRR0P+BIao/rlMH8UFQyMg4XY8Pm5bvs=
 			</data>
 		</dict>
 		<key>archived-expanded-entitlements.xcent</key>
@@ -1188,11 +1188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N3g8zS1EoFyZV3C3p2KHOK2TIuQ=
+			veowZ1lxG2tVsnw0Vipz3q8BIO8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6bA/Kk4JmxYN+uaqhppzQ8sUl8/j5kA2ypmZ43Wela0=
+			AG7B2WxzN8KfvoV6CU41aiNAHAXJmuaPiEfHGH67q+I=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -3157,11 +3157,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d6MJ9GegJ+wkNw5AaCKg4kGJmNo=
+			Hk9nBvmdo8Zzna18FvzikURnAr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tNVt3Ruo61yDL1Sy0B/9/HqL2Fl2UHmBvQQp+l4n1Qk=
+			WKRWp5X2frszxaCQ7KdFotYRMMg5xjLubVkyimd/nuo=
 			</data>
 		</dict>
 		<key>www/js/tayoschedule.js</key>
