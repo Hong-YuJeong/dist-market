@@ -52,7 +52,7 @@
 p.sectiontitle {
 /*    margin-top: 35px; 35/2/16*/
 /*    margin-left: 15px; 30/2/16 */
-/*margin-top:5.4%;/*2.1875em; 70/2/16 , 1.09375em;, */
+margin-top:5.4%;/*2.1875em; 70/2/16 , 1.09375em;, */
 margin-left:4%;/*0.9375em;, 4%;*/
 margin-bottom:1.2%;/* 1.2%; 0.5em; 16/2/16*/
     font-family: AppleSDGothicNeo;
@@ -134,14 +134,13 @@ img#check1, img#check2 {
         height:39px;
     }
     p.sectiontitle {
-        margin-top:52.5px;
+        /*margin-top:52.5px;*/
         font-size:25.5px;
     }
     p.ico_btn {
         font-size: 22.5px;
     }
     div.wrap1 {
-        display: table;
         height:180px;
         margin-top:12px;
         margin-left:45px;
@@ -178,7 +177,7 @@ img#check1, img#check2 {
         height:26px;
     }
     p.sectiontitle {
-        margin-top:35px;
+        /*margin-top:35px;*/
         font-size:17px;
     }
     p.ico_btn {
@@ -222,7 +221,7 @@ img#check1, img#check2 {
         height:31px;
     }
     p.sectiontitle {
-        margin-top:27px;
+/*        margin-top:27px;*/
         font-size:14.11px;
     }
     p.ico_btn {
@@ -268,7 +267,7 @@ img#check1, img#check2 {
         height:52px;
     }
     p.sectiontitle {
-        margin-top:70px;
+/*        margin-top:70px;*/
         font-size:34px;
     }
     p.ico_btn {
